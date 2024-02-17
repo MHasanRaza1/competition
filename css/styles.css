@@ -119,6 +119,10 @@ nav ul .e-comm{
 
 }
 
+.sub-cont-img img{
+    width: 500px;
+}
+
 .sub-cont-material span {
    background-color: #F2295B;
    font-size: 3vw;
